@@ -1,2 +1,2 @@
-# Acpect Oriental Programming with simple examples
-Examples of my learning AOP
+# Aspect Oriental Programming with simple examples
+Examples of my learning AOP with Spring 5
